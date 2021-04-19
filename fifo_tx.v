@@ -1,4 +1,5 @@
 //FIFO to Transmitter
+//Sends a byte of data to Transmitter from buffer one by one
 
 module fifo_tx(clk_fifo_tx, data_in, next_frame, data_out);
 
