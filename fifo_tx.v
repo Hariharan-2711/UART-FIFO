@@ -1,3 +1,5 @@
+//FIFO to Transmitter
+
 module fifo_tx(clk_fifo_tx, data_in, next_frame, data_out);
 
        input[7:0] data_in;
