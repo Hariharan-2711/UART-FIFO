@@ -1,6 +1,6 @@
 # UART-FIFO
 
-RTL design of UART with a FIFO buffer in verilog
+Behavioural design of UART with a FIFO buffer in verilog
 
 This project aims at the RTL design of a Universal Asynchronous Receiver and Transmitter
 
