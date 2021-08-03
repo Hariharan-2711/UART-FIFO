@@ -2,14 +2,9 @@
 
 Behavioural design of UART with a FIFO buffer in verilog
 
-This project aims at the RTL design of a Universal Asynchronous Receiver and Transmitter
+This project aims at the behavioural design of a Universal Asynchronous Receiver and Transmitter
 
 It has 5 modules namely:
-   Transmitter.v
-   Receiver.v
-   uart.v
-   fifo_tx.v
-   uart_testbench.v
    
 1. Transmitter.v - 
      This module implements the function of the transmitter. It has FSM consisting of 6 states.
