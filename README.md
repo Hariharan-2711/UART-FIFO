@@ -6,7 +6,7 @@ This project aims at the behavioural design of a Universal Asynchronous Receiver
 
 The UART protocol has a frame configured in the following way: 1 start bit, 8 data bits, 1 stop bit, 0 parity bits
 
-The project has 5 modules namely:
+The project has 5 verilog modules,
    
 1. Transmitter.v - 
      This module implements the function of the transmitter. It has FSM consisting of 6 states.
