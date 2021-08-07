@@ -4,6 +4,12 @@ Behavioural design of UART with a FIFO buffer in verilog
 
 This project aims at the behavioural design of a Universal Asynchronous Receiver and Transmitter
 
+The UART protocol has a frame configured in the following way
+1 start bit
+8 data bits
+1 stop bit
+0 parity bits
+
 It has 5 modules namely:
    
 1. Transmitter.v - 
